@@ -41,11 +41,6 @@
     "vue-particles": "^1.0.9",
     "workbox-webpack-plugin": "^5.1.4"
   },
-  "engines": {
-    "node": ">= 14.17.3",
-    "yarn": ">= 1.22.19",
-    "npm": ">= 8.19.3"
-  },
   "browserslist": [
     "last 1 version, not dead, ie >= 11"
   ],
