@@ -110,7 +110,7 @@ module.exports = function (ctx) {
     devServer: {
       port: 8080,
       vueDevtools: true,
-      open: false // opens browser window automatically
+      open: false
     },
 
     animations: [],
