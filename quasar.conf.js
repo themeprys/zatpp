@@ -113,7 +113,6 @@ module.exports = function (ctx) {
       open: false // opens browser window automatically
     },
 
-    // animations: 'all' --- includes all animations
     animations: [],
 
     ssr: {
