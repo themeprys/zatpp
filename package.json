@@ -1,0 +1,66 @@
+{
+  "name": "zatpp",
+  "version": "0.0.1",
+  "description": "ZATPP",
+  "productName": "ZATPP",
+  "cordovaId": "com.zatpp.app",
+  "author": "pryspry",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
+    "build": "quasar build",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "@cycjimmy/vue-h5-audio-controls": "^1.0.6",
+    "@quasar/extras": "^1.6.1",
+    "axios": "^0.19.0",
+    "core-js": "^3.30.2",
+    "firebase": "^7.13.2",
+    "install": "^0.13.0",
+    "node-sass": "^4.11.0",
+    "npm": "^9.6.7",
+    "plyr": "^3.7.8",
+    "quasar": "^1.9.12",
+    "sass-loader": "^8.0.2",
+    "three": "^0.152.2",
+    "validator": "^10.11.0",
+    "vanta": "^0.5.14",
+    "vue": "^2.7.14",
+    "vue-plyr": "^7.0.0",
+    "vue-router": "^3.6.5",
+    "vue-runtime-helpers": "^1.1.2",
+    "vue-threejs": "^0.2.0-alpha.1",
+    "vue-wave-surfer": "^1.0.1",
+    "vue-youtube": "^1.4.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.4.3",
+    "@vue/devtools": "^5.3.3",
+    "strip-ansi": "=3.0.1",
+    "vue-particles": "^1.0.9",
+    "workbox-webpack-plugin": "^5.1.4"
+  },
+  "engines": {
+    "node": ">= 14.17.3",
+    "yarn": ">= 1.22.19",
+    "npm": ">= 8.19.3"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ],
+  "resolutions": {
+    "ajv": "6.8.1"
+  },
+  "main": ".postcssrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbarpn136/smk.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbarpn136/smk/issues"
+  },
+  "homepage": "https://github.com/akbarpn136/smk#readme"
+}
