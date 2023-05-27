@@ -50,12 +50,12 @@
   "main": ".postcssrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akbarpn136/smk.git"
+    "url": "git+https://github.com/themeprys/zatpp.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akbarpn136/smk/issues"
+    "url": "https://github.com/themeprys/zatpp/issues"
   },
-  "homepage": "https://github.com/akbarpn136/smk#readme"
+  "homepage": "https://github.com/themeprys/zatpp#readme"
 }
