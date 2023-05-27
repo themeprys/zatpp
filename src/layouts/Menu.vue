@@ -123,7 +123,7 @@
             <q-item-section avatar>
               <q-icon name="fas fa-chevron-left" />
             </q-item-section>
-            <q-item-section>Back to zatpp.com</q-item-section>
+            <q-item-section>Back to Home</q-item-section>
           </q-item>
 
 

@@ -21,18 +21,20 @@
          <q-btn type="a" class="col-xs-6 zatpp_ctatokped" color="primary" label="About" to="/involved"  />
       </div>
          </div>
-    <div class="absolute-bottom-right q-pr-md q-pb-md">v.1.2.5</div>
+    <div class="absolute-bottom-right q-pr-md q-pb-md">v.2.1.0 <a style="text-decoration: none;color: #111;font-weight: bold;" href="https://themeprys.com">@themePrys</a></div>
   </q-page>
 </template>
 
 <script>
 
-import { openURL } from 'quasar'
 import Ken from "components/Ken";
 
 export default {
   components: {
     Ken
+  },
+  meta: {
+    title: 'What\'s on The Menu: a Zeke and The Popo Story'
   }
 };
 </script>

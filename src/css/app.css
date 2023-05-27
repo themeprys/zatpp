@@ -78,3 +78,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 }
+
+.q-tab.q-router-link--exact-active.q-router-link--active {
+  background: #383838;
+}
